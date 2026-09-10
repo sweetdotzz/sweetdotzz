@@ -1,6 +1,7 @@
 <div align="center">
-<img width="210" height="250" alt="tumblr_da60ef682c184f8731b19717c43bc129_5901ee02_250" src="https://github.com/user-attachments/assets/1f621dfd-9c9a-49d3-bf43-5be43dce65c3" />
+<img width="405" height="617" alt="image-removebg-preview (2)" src="https://github.com/user-attachments/assets/a6a07370-1f1a-4278-88d0-f76e00890122" />
+
 
 <br>
 
-<p align="center"><a href="https://github.com/AdiosT0reador">main</p>
+<p align="center"><a href="https://github.com/AdiosT0reador">♡</p>
