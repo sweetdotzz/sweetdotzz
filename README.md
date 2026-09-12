@@ -1,5 +1,10 @@
 <div align="center">
-<img width="405" height="617" alt="image-removebg-preview (2)" src="https://github.com/user-attachments/assets/a6a07370-1f1a-4278-88d0-f76e00890122" />
+
+
+  <br>
+  
+<img width="374" height="360" alt="scraps-scraps-dandys-world" src="https://github.com/user-attachments/assets/54d4c9cb-852a-4744-9316-01bcff82f862" />
+
 
 
 <br>
